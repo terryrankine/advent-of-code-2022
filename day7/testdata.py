@@ -1128,31 +1128,4 @@ $ ls
 $ cd ..
 $ cd szfw
 $ ls
-192729 rnq
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..
-$ cd ..'''.splitlines()
+192729 rnq'''.splitlines()
