@@ -48,13 +48,14 @@ print ('---------------')
 size = 0
 print(RenderTree(rootNode))
 
-
+#part1
 for currNode in rootRoot.descendants:
     if currNode.sumsize <= 100000:
         size +=currNode.sumsize
 print (size)
 
 
+#part2
 sizes = []
 for currNode in rootRoot.descendants:
     sizes.append(currNode.sumsize)
