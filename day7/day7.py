@@ -47,6 +47,8 @@ for line in td.data:
 print ('---------------')
 size = 0
 print(RenderTree(rootNode))
+
+
 for currNode in rootRoot.descendants:
     if currNode.sumsize <= 100000:
         size +=currNode.sumsize
